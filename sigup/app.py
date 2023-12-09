@@ -1,4 +1,3 @@
-#________SONPIPI________17-5-2023_____
 from flask import Flask
 from flask_cors import CORS
 from flask_sqlalchemy import SQLAlchemy
